@@ -1,0 +1,852 @@
+[29-Aug-2021 22:52:17 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 207
+[29-Aug-2021 22:52:17 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 207
+[29-Aug-2021 22:52:17 Asia/Jakarta] PHP Warning:  include(): Failed opening './user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 207
+[29-Aug-2021 22:52:20 Asia/Jakarta] PHP Warning:  include(./kegiatan/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 210
+[29-Aug-2021 22:52:20 Asia/Jakarta] PHP Warning:  include(./kegiatan/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 210
+[29-Aug-2021 22:52:20 Asia/Jakarta] PHP Warning:  include(): Failed opening './kegiatan/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 210
+[30-Aug-2021 08:05:41 Asia/Jakarta] PHP Warning:  include(./absensi/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 210
+[30-Aug-2021 08:05:41 Asia/Jakarta] PHP Warning:  include(./absensi/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 210
+[30-Aug-2021 08:05:41 Asia/Jakarta] PHP Warning:  include(): Failed opening './absensi/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 210
+[30-Aug-2021 08:05:48 Asia/Jakarta] PHP Warning:  include(./absensi/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 210
+[30-Aug-2021 08:05:48 Asia/Jakarta] PHP Warning:  include(./absensi/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 210
+[30-Aug-2021 08:05:48 Asia/Jakarta] PHP Warning:  include(): Failed opening './absensi/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 210
+[30-Aug-2021 08:08:15 Asia/Jakarta] PHP Warning:  include(./absensi/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 210
+[30-Aug-2021 08:08:15 Asia/Jakarta] PHP Warning:  include(./absensi/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 210
+[30-Aug-2021 08:08:15 Asia/Jakarta] PHP Warning:  include(): Failed opening './absensi/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 210
+[30-Aug-2021 08:11:39 Asia/Jakarta] PHP Warning:  include(./absensi/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 210
+[30-Aug-2021 08:11:39 Asia/Jakarta] PHP Warning:  include(./absensi/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 210
+[30-Aug-2021 08:11:39 Asia/Jakarta] PHP Warning:  include(): Failed opening './absensi/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 210
+[30-Aug-2021 10:25:08 Asia/Jakarta] PHP Warning:  include(./ganti_password.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 184
+[30-Aug-2021 10:25:08 Asia/Jakarta] PHP Warning:  include(./ganti_password.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 184
+[30-Aug-2021 10:25:08 Asia/Jakarta] PHP Warning:  include(): Failed opening './ganti_password.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/sikeppo/operator/dashboard.php on line 184
+[31-Aug-2021 15:25:20 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/list.php on line 80
+[31-Aug-2021 15:29:11 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/list.php on line 80
+[31-Aug-2021 15:34:54 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[31-Aug-2021 15:34:54 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[31-Aug-2021 15:34:54 Asia/Jakarta] PHP Warning:  include(): Failed opening './user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[31-Aug-2021 15:35:10 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[31-Aug-2021 15:35:10 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[31-Aug-2021 15:35:10 Asia/Jakarta] PHP Warning:  include(): Failed opening './user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[31-Aug-2021 15:35:12 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[31-Aug-2021 15:35:12 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[31-Aug-2021 15:35:12 Asia/Jakarta] PHP Warning:  include(): Failed opening './user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[31-Aug-2021 15:35:12 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[31-Aug-2021 15:35:12 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[31-Aug-2021 15:35:12 Asia/Jakarta] PHP Warning:  include(): Failed opening './user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[31-Aug-2021 15:39:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_value() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/add.php:47
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(10): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/add.php on line 47
+[31-Aug-2021 15:39:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_value() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/add.php:47
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(10): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/add.php on line 47
+[31-Aug-2021 15:39:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_value() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/add.php:47
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(10): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/add.php on line 47
+[31-Aug-2021 15:39:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_value() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/add.php:33
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(10): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/add.php on line 33
+[31-Aug-2021 15:39:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_value() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/add.php:33
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(10): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/add.php on line 33
+[01-Sep-2021 15:19:38 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[01-Sep-2021 15:19:38 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[01-Sep-2021 15:19:38 Asia/Jakarta] PHP Warning:  include(): Failed opening './user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[01-Sep-2021 15:22:36 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[01-Sep-2021 15:22:36 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[01-Sep-2021 15:22:36 Asia/Jakarta] PHP Warning:  include(): Failed opening './user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[01-Sep-2021 15:23:15 Asia/Jakarta] PHP Warning:  include(./paket/dateil.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php on line 17
+[01-Sep-2021 15:23:15 Asia/Jakarta] PHP Warning:  include(./paket/dateil.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php on line 17
+[01-Sep-2021 15:23:15 Asia/Jakarta] PHP Warning:  include(): Failed opening './paket/dateil.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php on line 17
+[01-Sep-2021 15:23:30 Asia/Jakarta] PHP Warning:  include(./paket/datail.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php on line 17
+[01-Sep-2021 15:23:30 Asia/Jakarta] PHP Warning:  include(./paket/datail.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php on line 17
+[01-Sep-2021 15:23:30 Asia/Jakarta] PHP Warning:  include(): Failed opening './paket/datail.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php on line 17
+[01-Sep-2021 15:30:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/detail.php on line 99
+[01-Sep-2021 15:50:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/detail.php on line 111
+[02-Sep-2021 12:49:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/detail.php on line 150
+[02-Sep-2021 13:23:48 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[02-Sep-2021 13:23:48 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[02-Sep-2021 13:23:48 Asia/Jakarta] PHP Warning:  include(): Failed opening './user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[02-Sep-2021 13:24:18 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[02-Sep-2021 13:24:18 Asia/Jakarta] PHP Warning:  include(./user/index.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[02-Sep-2021 13:24:18 Asia/Jakarta] PHP Warning:  include(): Failed opening './user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 154
+[02-Sep-2021 13:24:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php:46
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include()
+#1 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php on line 46
+[03-Sep-2021 15:00:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_value() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:34
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 34
+[03-Sep-2021 15:01:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_value() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:34
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 34
+[03-Sep-2021 15:01:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_value() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:34
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 34
+[03-Sep-2021 15:01:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_value() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:27
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 27
+[03-Sep-2021 15:02:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_value() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:35
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 35
+[03-Sep-2021 15:05:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:61
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 61
+[03-Sep-2021 15:06:58 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 70
+[03-Sep-2021 15:06:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:91
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 91
+[03-Sep-2021 15:07:33 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 70
+[03-Sep-2021 15:07:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:91
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 91
+[03-Sep-2021 15:07:34 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 70
+[03-Sep-2021 15:07:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:91
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 91
+[03-Sep-2021 15:07:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:91
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 91
+[03-Sep-2021 15:09:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:95
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 95
+[03-Sep-2021 15:10:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:106
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 106
+[03-Sep-2021 15:12:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:13:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:14:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:14:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:14:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(157): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:16:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 24
+[03-Sep-2021 15:16:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 24
+[03-Sep-2021 15:16:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 24
+[03-Sep-2021 15:16:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 24
+[03-Sep-2021 15:16:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 24
+[03-Sep-2021 15:16:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 24
+[03-Sep-2021 15:16:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 24
+[03-Sep-2021 15:16:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 24
+[03-Sep-2021 15:16:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 24
+[03-Sep-2021 15:16:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 24
+[03-Sep-2021 15:17:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 24
+[03-Sep-2021 15:17:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:17:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:106
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 106
+[03-Sep-2021 15:18:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:18:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:19:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:20:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:20:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:21:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:102
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 102
+[03-Sep-2021 15:21:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:102
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 102
+[03-Sep-2021 15:21:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:102
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 102
+[03-Sep-2021 15:22:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:100
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 100
+[03-Sep-2021 15:22:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:101
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 101
+[03-Sep-2021 15:22:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:102
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 102
+[03-Sep-2021 15:23:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:79
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 79
+[03-Sep-2021 15:24:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:94
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 94
+[03-Sep-2021 15:24:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:102
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 102
+[03-Sep-2021 15:27:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:27:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(159): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:28:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 25
+[03-Sep-2021 15:28:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 25
+[03-Sep-2021 15:28:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php on line 25
+[03-Sep-2021 15:29:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:30:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:30:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:108
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 108
+[03-Sep-2021 15:31:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:31:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:31:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:32:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:32:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:33:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:34:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:34:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:34:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:36:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:37:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:37:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:39:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:39:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:39:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:45:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(167): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:47:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:47:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:47:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:48:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:63
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 63
+[03-Sep-2021 15:51:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:94
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 94
+[03-Sep-2021 15:53:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:101
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 101
+[03-Sep-2021 15:54:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 109
+[03-Sep-2021 15:55:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 109
+[03-Sep-2021 15:56:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 109
+[03-Sep-2021 15:56:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:130
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 130
+[03-Sep-2021 15:56:14 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 109
+[03-Sep-2021 15:56:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:130
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 130
+[03-Sep-2021 15:56:22 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 109
+[03-Sep-2021 15:56:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:130
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 130
+[03-Sep-2021 15:56:32 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 109
+[03-Sep-2021 15:56:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:130
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 130
+[03-Sep-2021 15:56:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 109
+[03-Sep-2021 15:56:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:130
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 130
+[03-Sep-2021 15:56:53 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 109
+[03-Sep-2021 15:56:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:130
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 130
+[03-Sep-2021 15:56:54 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 109
+[03-Sep-2021 15:56:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:130
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 130
+[03-Sep-2021 15:57:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 199
+[03-Sep-2021 15:57:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 109
+[03-Sep-2021 15:57:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:130
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 130
+[03-Sep-2021 15:58:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 109
+[03-Sep-2021 15:58:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:130
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 130
+[03-Sep-2021 15:59:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 109
+[03-Sep-2021 15:59:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:130
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 130
+[03-Sep-2021 16:19:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 136
+[03-Sep-2021 16:19:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:157
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 157
+[03-Sep-2021 16:22:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 136
+[03-Sep-2021 16:22:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:157
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 157
+[03-Sep-2021 16:23:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 136
+[03-Sep-2021 16:23:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:157
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 157
+[03-Sep-2021 16:25:20 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 136
+[03-Sep-2021 16:25:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:157
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 157
+[03-Sep-2021 17:01:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:47
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 47
+[06-Sep-2021 14:36:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:35
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 35
+[06-Sep-2021 14:48:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 52
+[06-Sep-2021 14:48:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:64
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 64
+[06-Sep-2021 14:49:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting variable (T_VARIABLE) or '{' or '$' in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 46
+[06-Sep-2021 14:50:09 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 38
+[06-Sep-2021 14:50:10 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 38
+[06-Sep-2021 16:18:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/detail.php on line 175
+[08-Sep-2021 09:28:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 86
+[08-Sep-2021 10:18:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:73
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 73
+[08-Sep-2021 10:18:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:75
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 75
+[08-Sep-2021 10:20:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:75
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 75
+[08-Sep-2021 10:25:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:80
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 80
+[08-Sep-2021 10:26:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:80
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 80
+[08-Sep-2021 10:28:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:80
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 80
+[08-Sep-2021 10:28:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:80
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 80
+[08-Sep-2021 10:28:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:84
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 84
+[08-Sep-2021 10:28:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:84
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 84
+[08-Sep-2021 10:28:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:84
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 84
+[08-Sep-2021 10:28:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:84
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 84
+[08-Sep-2021 10:29:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:82
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 82
+[08-Sep-2021 10:29:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php:84
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/index.php(21): include()
+#1 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(160): include('/home/beab1437/...')
+#2 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 84
+[08-Sep-2021 16:06:23 Asia/Jakarta] PHP Warning:  move_uploaded_file(nama-baru/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/DRH DADANG.pdf): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 23
+[08-Sep-2021 16:06:23 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAINGih' to 'nama-baru/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/DRH DADANG.pdf' in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 23
+[08-Sep-2021 16:07:38 Asia/Jakarta] PHP Warning:  move_uploaded_file(nama-baru/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Undangan Pelantikan Intenal.pdf): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 23
+[08-Sep-2021 16:07:38 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplVqBpA' to 'nama-baru/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Undangan Pelantikan Intenal.pdf' in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 23
+[09-Sep-2021 10:14:47 Asia/Jakarta] PHP Warning:  move_uploaded_file(/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 38
+[09-Sep-2021 10:14:47 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpH4EYpV' to '/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf' in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 38
+[09-Sep-2021 10:18:38 Asia/Jakarta] PHP Warning:  move_uploaded_file(/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 39
+[09-Sep-2021 10:18:38 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpiImLw6' to '/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf' in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 39
+[09-Sep-2021 10:23:59 Asia/Jakarta] PHP Warning:  move_uploaded_file(/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 39
+[09-Sep-2021 10:23:59 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpV5kD1d' to '/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf' in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 39
+[09-Sep-2021 10:27:18 Asia/Jakarta] PHP Warning:  move_uploaded_file(/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 37
+[09-Sep-2021 10:27:18 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpGxO500' to '/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf' in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 37
+[09-Sep-2021 10:28:17 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 1
+[09-Sep-2021 10:32:02 Asia/Jakarta] PHP Warning:  move_uploaded_file(/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 39
+[09-Sep-2021 10:32:02 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXM0bbu' to '/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf' in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 39
+[09-Sep-2021 10:34:22 Asia/Jakarta] PHP Warning:  move_uploaded_file(/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 39
+[09-Sep-2021 10:34:22 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplS3P1E' to '/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf' in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 39
+[09-Sep-2021 10:36:23 Asia/Jakarta] PHP Warning:  move_uploaded_file(/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 39
+[09-Sep-2021 10:36:23 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpo13YjL' to '/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf' in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 39
+[09-Sep-2021 10:40:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 39
+[09-Sep-2021 10:40:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQNPbtX' to '/home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload/Kantor Wilayah Jambi/147-8.pdf' in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 39
+[09-Sep-2021 10:47:43 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 10:47:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 17
+[09-Sep-2021 10:47:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 18
+[09-Sep-2021 10:47:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 52
+[09-Sep-2021 10:50:13 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 10:51:32 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:03:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/upload.php on line 88
+[09-Sep-2021 11:20:07 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:21:39 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:22:11 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:23:22 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:27:00 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:27:07 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:31:54 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:36:25 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:36:35 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:37:07 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:38:07 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:48:30 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:49:02 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:49:15 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:49:36 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:55:31 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 11:56:21 Asia/Jakarta] PHP Warning:  mkdir(): File exists in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/prosesupload.php on line 10
+[09-Sep-2021 12:51:22 Asia/Jakarta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 12:51:22 Asia/Jakarta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 12:51:22 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 12:53:16 Asia/Jakarta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 12:53:16 Asia/Jakarta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 12:53:16 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 12:57:12 Asia/Jakarta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 12:57:12 Asia/Jakarta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 12:57:12 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 12:58:12 Asia/Jakarta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 12:58:12 Asia/Jakarta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 12:58:12 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 12:58:59 Asia/Jakarta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 12:58:59 Asia/Jakarta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 12:58:59 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 13:01:32 Asia/Jakarta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 13:01:32 Asia/Jakarta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 13:01:32 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 13:02:24 Asia/Jakarta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 13:02:24 Asia/Jakarta] PHP Warning:  include(../../include/connection.php): failed to open stream: No such file or directory in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 13:02:24 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/konfirmasi.php on line 9
+[09-Sep-2021 13:40:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/datadukung.php on line 24
+[10-Sep-2021 13:04:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php:17
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(195): include()
+#1 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php on line 17
+[10-Sep-2021 13:04:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php:17
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(195): include()
+#1 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php on line 17
+[10-Sep-2021 13:04:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php:17
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(195): include()
+#1 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php on line 17
+[10-Sep-2021 13:04:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php:17
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(195): include()
+#1 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php on line 17
+[10-Sep-2021 13:04:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php:17
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(195): include()
+#1 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php on line 17
+[10-Sep-2021 13:04:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php:16
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(195): include()
+#1 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php on line 16
+[10-Sep-2021 13:04:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php:16
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(195): include()
+#1 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php on line 16
+[10-Sep-2021 13:04:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php:16
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(195): include()
+#1 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php on line 16
+[10-Sep-2021 13:04:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php:14
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(195): include()
+#1 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php on line 14
+[10-Sep-2021 13:05:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php:16
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(195): include()
+#1 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php on line 16
+[10-Sep-2021 13:05:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php:16
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(195): include()
+#1 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php on line 16
+[10-Sep-2021 13:05:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php:16
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(195): include()
+#1 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php on line 16
+[10-Sep-2021 13:05:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php:16
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(195): include()
+#1 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php on line 16
+[10-Sep-2021 13:05:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php:16
+Stack trace:
+#0 /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/dashboard.php(195): include()
+#1 {main}
+  thrown in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/welcome.php on line 16
+[10-Sep-2021 16:12:33 Asia/Jakarta] PHP Warning:  Wrong parameter count for number_format() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/list.php on line 110
+[10-Sep-2021 16:12:33 Asia/Jakarta] PHP Warning:  Wrong parameter count for number_format() in /home/beab1437/public_html/kumhamjambi.info/ukpbj/operator/paket/list.php on line 110
